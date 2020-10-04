@@ -1,0 +1,6 @@
+sudo usermod -a -G dialout
+
+sudo chmod a+rw /dev/ttyACM0
+
+
+***ACM0 or USB0 or read in arduino ide 
